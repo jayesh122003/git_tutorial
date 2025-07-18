@@ -1,4 +1,3 @@
-## Hello, Git!
+## Hey Yo, I'm JSM
 
-- I'm adding this from 'feature-branch'
-- I'm changing readme here
+- I'm so cool hahah
