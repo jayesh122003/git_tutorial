@@ -1,3 +1,3 @@
 ## Welcome to Git, Jay!!
 
-- So good to see you here, Jay
+- I'm so cool hahah
